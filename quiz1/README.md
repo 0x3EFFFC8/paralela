@@ -13,5 +13,5 @@
 `./montepi <lanzamientos>`
 #### Monte Carlo con hilos (carlopi.cpp)
 `./carlopi <num_hilos> <lanzamientos>`
-### Instrucciones de ejecución 
 
+https://drive.google.com/drive/folders/1dZUOXDRhQyJehjBRbld3WCSrJZ_AtyNO?usp=sharing
